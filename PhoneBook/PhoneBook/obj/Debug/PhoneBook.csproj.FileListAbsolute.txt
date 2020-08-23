@@ -1,0 +1,11 @@
+C:\Users\mariu\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\mariu\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\mariu\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\mariu\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Add.resources
+C:\Users\mariu\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.PhoneBook.resources
+C:\Users\mariu\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\mariu\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Update.resources
+C:\Users\mariu\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\mariu\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\mariu\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\mariu\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
